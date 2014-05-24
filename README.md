@@ -4,6 +4,10 @@ zinop
 messy files organizer
 
 
+## how to use
+1. Download and extract the [ZIP file] (/download/zinop.zip?raw=true)
+2. Drag a MESSY FOLDER and see the magic
 
 ## demo
+
 ![Demo - Zinop] (http://static.kimerran.com/img/zinop-demo.gif)
